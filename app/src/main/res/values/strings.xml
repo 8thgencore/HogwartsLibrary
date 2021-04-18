@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HogwartsLibrary</string>
+    <string name="title_students">Students</string>
+    <string name="title_houses">Houses</string>
+    <string name="title_staffs">Staffs</string>
+    <string name="welcome_title">Добро пожаловать\nв Школу Магиии Волшебства\nХогвартс!</string>
+    <string name="welcome_subtitle">Наденьте распределительную шляпу</string>
+    <string name="welcome_name_hint">Имя и Фамилия</string>
+    <string name="welcome_select_faculty">Распределить</string>
+    <string name="welcome_selected">Поздравляем! Ваш факультет [faculty_name]</string>
+    <string name="welcome_selecting">Распределяю...</string>
+    <string name="welcome_next">Зайти в школу</string>
+    <string name="students_search_hint">Введите имя для поиска</string>
+    <string name="loading">Загружаю данные...</string>
+    <string name="house_detail_leader">The leadership of [LEADER_NAME]</string>
+    <string name="house_detail_owner">Founded by: [FOUNDER_NAME]</string>
+    <string name="house_detail_ghost">Main ghost: [GHOST_NAME]</string>
+</resources>
